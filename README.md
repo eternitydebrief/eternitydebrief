@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Mihai</h1>
-  <p>A passionate developer and tinkerer from Romania.</p>
+  <h1>hello, i'm user</h1>
 <hr />
 
 <!-- AUTO-GENERATED:START (do not edit by hand) -->
@@ -37,10 +36,10 @@
 
    my personal ai policy: i use ai as a writing assistant while coding, i do use claude code and such but
    i try to do it sparingly and actually learn. i don't consider myself a "vibe coder" and i take full
-   responsibility for all code shared.
+   responsibility for all code shared. none of my pull requests / issues will ever be ai slop, i genuinely
+   only contribute stuff i did / found myself, to projects i actually care about.
 
-   NONE of my actual writing (i.e. blogs, logbooks, readmes are ai written.) is written with ai beyond
-   checking for typos or bad grammar. 
+   NONE of my actual writing (i.e. blogs, logbooks, readmes are ai written.) is written with ai.
 </pre>
  <h2>All projects and tools</h2>
 </div>
