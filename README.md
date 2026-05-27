@@ -65,7 +65,7 @@
     </tr>
     <tr>
       <td><strong>uardal</strong></td>
-      <td>Romanian Wordle-style game that picks a random word each visit.</td>
+      <td>romanian wordle-style game that picks a random word each visit.</td>
     </tr>
     <tr>
       <td><strong>sortvisualizer</strong></td>
