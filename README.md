@@ -22,7 +22,7 @@
    responsibility for all code shared. none of my pull requests / issues will ever be ai slop, i genuinely
    only contribute stuff i did / found myself, to projects i actually care about.
 
-   NONE of my actual writing (i.e. blogs, logbooks, readmes are ai written.) is written with ai.
+   NONE of my actual writing is written with ai.
 </pre>
  <h2>all projects and tools</h2>
 </div>
