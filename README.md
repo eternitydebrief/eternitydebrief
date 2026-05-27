@@ -49,7 +49,7 @@
     </tr>
     <tr>
       <td><strong>libreboot-nidhoggr</strong></td>
-      <td>personal libreboot patch set for the thinkpad t480 — enables smt, natacpi battery thresholds, fn/ctrl swap at ec level, and a grub+seabios dual payload.</td>
+      <td>personal libreboot patch set for the thinkpad t480; enables smt, natacpi battery thresholds, fn/ctrl swap at ec level, and a grub+seabios dual payload.</td>
     </tr>
     <tr>
       <td><strong>vibe-oopsie</strong></td>
