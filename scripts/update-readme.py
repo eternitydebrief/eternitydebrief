@@ -196,7 +196,7 @@ def main():
 
 <p>total project writeups: {projects_count} · total logbook entries: {logbook_count}</p>
 
-<p><small>auto-updated from my <a href="https://codeberg.org/user/pages">pages repo</a>.</small></p>
+<p><sub>auto-updated from my <a href="https://codeberg.org/user/pages">pages repo</a>.</sub></p>
 <!-- AUTO-GENERATED:END -->"""
 
     update_readme_generated_block(new_block)
